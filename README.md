@@ -8,3 +8,10 @@
 pip install requests
 pip install beautifulsoup4
 ```
+## 執行方法
+安裝 python for windows (Python)[https://www.python.org/downloads/] <br>
+從 windows store 安裝 `Python`之後 <br>
+直接透過`vscode`的終端機裡執行
+```
+python getUrl.py
+```
